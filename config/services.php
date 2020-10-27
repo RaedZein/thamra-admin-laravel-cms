@@ -44,20 +44,20 @@ return [
     'facebook' => [
         'client_id' => '2088483311467392',         // Your Facebook Client ID
         'client_secret' => '4fb7bff52d8eb13041f6fc59030e4b62', // Your Facebook Client Secret
-        'redirect' => 'https://multi-restaurants.smartersvision.com/public/login/facebook/callback',
+        'redirect' => 'https://thamratoyou.com/public/login/facebook/callback',
     ],
 
     'google' => [
         'client_id' => '527129559488-roolg8aq110p8r1q952fqa9tm06gbloe.apps.googleusercontent.com',         // Your google Client ID
         'client_secret' => 'FpIi8SLgc69ZWodk-xHaOrxn', // Your google Client Secret
-        'redirect' => 'https://multi-restaurants.smartersvision.com/public/login/google/callback',
+        'redirect' => 'https://thamratoyou.com/public/login/google/callback',
     ],
 
 
     'twitter' => [
         'client_id' => '',         // Your twitter Client ID
         'client_secret' => '', // Your twitter Client Secret
-        'redirect' => 'https://multi-restaurants.smartersvision.com/public/login/twitter/callback',
+        'redirect' => 'https://thamratoyou.com/public/login/twitter/callback',
     ],
 
     'braintree' => [
