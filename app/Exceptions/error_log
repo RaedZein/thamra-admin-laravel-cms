@@ -1,0 +1,6 @@
+[27-Oct-2020 02:07:04 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/thamrato/public_html/app/Exceptions/Handler.php on line 11
+[27-Oct-2020 02:07:06 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/thamrato/public_html/app/Exceptions/Handler.php on line 11
+[27-Oct-2020 02:14:32 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/thamrato/public_html/app/Exceptions/Handler.php on line 11
+[27-Oct-2020 02:14:35 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/thamrato/public_html/app/Exceptions/Handler.php on line 11
+[27-Oct-2020 02:31:15 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/thamrato/public_html/app/Exceptions/Handler.php on line 11
+[27-Oct-2020 02:31:17 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/thamrato/public_html/app/Exceptions/Handler.php on line 11

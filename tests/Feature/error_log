@@ -1,0 +1,5 @@
+[27-Oct-2020 02:04:30 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home4/thamrato/public_html/tests/Feature/ExampleTest.php on line 8
+[27-Oct-2020 02:23:39 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home4/thamrato/public_html/tests/Feature/ExampleTest.php on line 8
+[27-Oct-2020 02:23:41 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home4/thamrato/public_html/tests/Feature/ExampleTest.php on line 8
+[27-Oct-2020 02:28:50 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home4/thamrato/public_html/tests/Feature/ExampleTest.php on line 8
+[27-Oct-2020 02:28:52 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home4/thamrato/public_html/tests/Feature/ExampleTest.php on line 8

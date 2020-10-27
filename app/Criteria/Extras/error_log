@@ -1,0 +1,5 @@
+[27-Oct-2020 02:11:56 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Extras/ExtrasOfUserCriteria.php on line 20
+[27-Oct-2020 02:28:19 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Extras/ExtrasOfUserCriteria.php on line 20
+[27-Oct-2020 02:28:21 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Extras/ExtrasOfUserCriteria.php on line 20
+[27-Oct-2020 02:29:31 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Extras/ExtrasOfUserCriteria.php on line 20
+[27-Oct-2020 02:29:33 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Extras/ExtrasOfUserCriteria.php on line 20

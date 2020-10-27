@@ -1,0 +1,6 @@
+[27-Oct-2020 02:07:15 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/thamrato/public_html/app/Http/Kernel.php on line 8
+[27-Oct-2020 02:07:18 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/thamrato/public_html/app/Http/Kernel.php on line 8
+[27-Oct-2020 02:14:36 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/thamrato/public_html/app/Http/Kernel.php on line 8
+[27-Oct-2020 02:14:38 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/thamrato/public_html/app/Http/Kernel.php on line 8
+[27-Oct-2020 02:31:23 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/thamrato/public_html/app/Http/Kernel.php on line 8
+[27-Oct-2020 02:31:24 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/thamrato/public_html/app/Http/Kernel.php on line 8

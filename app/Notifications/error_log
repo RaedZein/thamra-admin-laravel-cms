@@ -1,0 +1,16 @@
+[27-Oct-2020 02:09:16 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/AssignedOrder.php on line 11
+[27-Oct-2020 02:09:18 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/AssignedOrder.php on line 11
+[27-Oct-2020 02:09:19 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/NewOrder.php on line 12
+[27-Oct-2020 02:09:21 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/NewOrder.php on line 12
+[27-Oct-2020 02:09:22 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/Newvisit.php on line 10
+[27-Oct-2020 02:09:24 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/Newvisit.php on line 10
+[27-Oct-2020 02:09:25 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/StatusChangedOrder.php on line 18
+[27-Oct-2020 02:09:27 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/StatusChangedOrder.php on line 18
+[27-Oct-2020 02:16:22 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/AssignedOrder.php on line 11
+[27-Oct-2020 02:16:24 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/AssignedOrder.php on line 11
+[27-Oct-2020 02:16:25 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/NewOrder.php on line 12
+[27-Oct-2020 02:16:27 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/NewOrder.php on line 12
+[27-Oct-2020 02:16:28 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/Newvisit.php on line 10
+[27-Oct-2020 02:16:30 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/Newvisit.php on line 10
+[27-Oct-2020 02:16:31 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/StatusChangedOrder.php on line 18
+[27-Oct-2020 02:16:33 America/Boise] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home4/thamrato/public_html/app/Notifications/StatusChangedOrder.php on line 18

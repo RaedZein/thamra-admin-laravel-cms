@@ -1,0 +1,5 @@
+[27-Oct-2020 02:04:28 America/Boise] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home4/thamrato/public_html/tests/Browser/ExampleTest.php on line 10
+[27-Oct-2020 02:23:33 America/Boise] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home4/thamrato/public_html/tests/Browser/ExampleTest.php on line 10
+[27-Oct-2020 02:23:35 America/Boise] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home4/thamrato/public_html/tests/Browser/ExampleTest.php on line 10
+[27-Oct-2020 02:28:47 America/Boise] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home4/thamrato/public_html/tests/Browser/ExampleTest.php on line 10
+[27-Oct-2020 02:28:49 America/Boise] PHP Fatal error:  Class 'Tests\DuskTestCase' not found in /home4/thamrato/public_html/tests/Browser/ExampleTest.php on line 10

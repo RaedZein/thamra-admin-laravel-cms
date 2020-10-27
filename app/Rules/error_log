@@ -1,0 +1,4 @@
+[27-Oct-2020 02:11:36 America/Boise] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home4/thamrato/public_html/app/Rules/EarningAmount.php on line 7
+[27-Oct-2020 02:11:38 America/Boise] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home4/thamrato/public_html/app/Rules/EarningAmount.php on line 7
+[27-Oct-2020 02:18:31 America/Boise] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home4/thamrato/public_html/app/Rules/EarningAmount.php on line 7
+[27-Oct-2020 02:18:33 America/Boise] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home4/thamrato/public_html/app/Rules/EarningAmount.php on line 7

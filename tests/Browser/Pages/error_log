@@ -1,0 +1,2 @@
+[27-Oct-2020 02:29:14 America/Boise] PHP Fatal error:  Class 'Tests\Browser\Pages\Page' not found in /home4/thamrato/public_html/tests/Browser/Pages/HomePage.php on line 7
+[27-Oct-2020 02:29:14 America/Boise] PHP Fatal error:  Class 'Laravel\Dusk\Page' not found in /home4/thamrato/public_html/tests/Browser/Pages/Page.php on line 7

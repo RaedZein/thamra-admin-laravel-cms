@@ -1,0 +1,6 @@
+[27-Oct-2020 02:06:46 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/thamrato/public_html/app/Entities/UploadRepository.php on line 14
+[27-Oct-2020 02:06:48 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/thamrato/public_html/app/Entities/UploadRepository.php on line 14
+[27-Oct-2020 02:14:20 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/thamrato/public_html/app/Entities/UploadRepository.php on line 14
+[27-Oct-2020 02:14:22 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/thamrato/public_html/app/Entities/UploadRepository.php on line 14
+[27-Oct-2020 02:31:00 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/thamrato/public_html/app/Entities/UploadRepository.php on line 14
+[27-Oct-2020 02:31:02 America/Boise] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/thamrato/public_html/app/Entities/UploadRepository.php on line 14

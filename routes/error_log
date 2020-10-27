@@ -1,0 +1,96 @@
+[27-Oct-2020 02:03:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/api.php on line 20
+[27-Oct-2020 02:03:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/api.php on line 20
+[27-Oct-2020 02:03:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home4/thamrato/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/channels.php on line 14
+[27-Oct-2020 02:04:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home4/thamrato/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/channels.php on line 14
+[27-Oct-2020 02:04:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home4/thamrato/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/console.php on line 16
+[27-Oct-2020 02:04:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home4/thamrato/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/console.php on line 16
+[27-Oct-2020 02:04:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/web.php on line 20
+[27-Oct-2020 02:04:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/web.php on line 20
+[27-Oct-2020 02:11:48 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/api.php on line 20
+[27-Oct-2020 02:11:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/api.php on line 20
+[27-Oct-2020 02:11:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home4/thamrato/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/channels.php on line 14
+[27-Oct-2020 02:11:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home4/thamrato/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/channels.php on line 14
+[27-Oct-2020 02:11:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home4/thamrato/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/console.php on line 16
+[27-Oct-2020 02:11:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home4/thamrato/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/console.php on line 16
+[27-Oct-2020 02:11:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/web.php on line 20
+[27-Oct-2020 02:11:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/web.php on line 20
+[27-Oct-2020 02:28:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/api.php on line 20
+[27-Oct-2020 02:28:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/api.php on line 20
+[27-Oct-2020 02:28:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home4/thamrato/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/channels.php on line 14
+[27-Oct-2020 02:28:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home4/thamrato/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/channels.php on line 14
+[27-Oct-2020 02:28:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home4/thamrato/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/console.php on line 16
+[27-Oct-2020 02:28:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home4/thamrato/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/console.php on line 16
+[27-Oct-2020 02:28:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/web.php on line 20
+[27-Oct-2020 02:28:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home4/thamrato/public_html/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/routes/web.php on line 20

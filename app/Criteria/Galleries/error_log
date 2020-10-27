@@ -1,0 +1,5 @@
+[27-Oct-2020 02:12:09 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Galleries/GalleriesOfUserCriteria.php on line 21
+[27-Oct-2020 02:28:55 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Galleries/GalleriesOfUserCriteria.php on line 21
+[27-Oct-2020 02:28:57 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Galleries/GalleriesOfUserCriteria.php on line 21
+[27-Oct-2020 02:29:57 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Galleries/GalleriesOfUserCriteria.php on line 21
+[27-Oct-2020 02:29:59 America/Boise] PHP Fatal error:  Interface 'Prettus\Repository\Contracts\CriteriaInterface' not found in /home4/thamrato/public_html/app/Criteria/Galleries/GalleriesOfUserCriteria.php on line 21

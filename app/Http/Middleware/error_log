@@ -1,0 +1,11 @@
+[27-Oct-2020 02:14:02 America/Boise] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home4/thamrato/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Oct-2020 02:14:08 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home4/thamrato/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[27-Oct-2020 02:14:09 America/Boise] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home4/thamrato/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[27-Oct-2020 02:14:10 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home4/thamrato/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 15
+[27-Oct-2020 02:32:33 America/Boise] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home4/thamrato/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Oct-2020 02:32:34 America/Boise] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home4/thamrato/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Oct-2020 02:32:36 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home4/thamrato/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[27-Oct-2020 02:32:38 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home4/thamrato/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[27-Oct-2020 02:32:39 America/Boise] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home4/thamrato/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[27-Oct-2020 02:32:41 America/Boise] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home4/thamrato/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[27-Oct-2020 02:32:42 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home4/thamrato/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 15

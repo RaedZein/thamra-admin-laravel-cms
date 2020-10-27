@@ -1,0 +1,16 @@
+[27-Oct-2020 02:11:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/thamrato/public_html/config/infyom/laravel_generator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/config/infyom/laravel_generator.php on line 14
+[27-Oct-2020 02:11:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/thamrato/public_html/config/infyom/laravel_generator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/config/infyom/laravel_generator.php on line 14
+[27-Oct-2020 02:18:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/thamrato/public_html/config/infyom/laravel_generator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/config/infyom/laravel_generator.php on line 14
+[27-Oct-2020 02:18:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/thamrato/public_html/config/infyom/laravel_generator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/config/infyom/laravel_generator.php on line 14
