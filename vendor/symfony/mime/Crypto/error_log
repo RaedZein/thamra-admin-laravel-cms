@@ -1,0 +1,4 @@
+[27-Oct-2020 02:02:25 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Crypto\SMime' not found in /home4/thamrato/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[27-Oct-2020 02:02:25 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Crypto\SMime' not found in /home4/thamrato/public_html/vendor/symfony/mime/Crypto/SMimeEncrypter.php on line 20
+[27-Oct-2020 02:02:26 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Crypto\SMime' not found in /home4/thamrato/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20
+[27-Oct-2020 02:02:26 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Crypto\SMime' not found in /home4/thamrato/public_html/vendor/symfony/mime/Crypto/SMimeSigner.php on line 20

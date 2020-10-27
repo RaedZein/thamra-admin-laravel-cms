@@ -1,0 +1,8 @@
+[27-Oct-2020 02:04:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/thamrato/public_html/vendor/themsaid/laravel-langman/config/langman.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/vendor/themsaid/laravel-langman/config/langman.php on line 14
+[27-Oct-2020 02:04:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/thamrato/public_html/vendor/themsaid/laravel-langman/config/langman.php:14
+Stack trace:
+#0 {main}
+  thrown in /home4/thamrato/public_html/vendor/themsaid/laravel-langman/config/langman.php on line 14

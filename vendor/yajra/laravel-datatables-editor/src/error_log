@@ -1,0 +1,4 @@
+[27-Oct-2020 02:05:01 America/Boise] PHP Fatal error:  Trait 'Illuminate\Foundation\Validation\ValidatesRequests' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-editor/src/DataTablesEditor.php on line 19
+[27-Oct-2020 02:05:01 America/Boise] PHP Fatal error:  Trait 'Illuminate\Foundation\Validation\ValidatesRequests' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-editor/src/DataTablesEditor.php on line 19
+[27-Oct-2020 02:05:02 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-editor/src/EditorServiceProvider.php on line 8
+[27-Oct-2020 02:05:02 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-editor/src/EditorServiceProvider.php on line 8

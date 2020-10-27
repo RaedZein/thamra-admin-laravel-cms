@@ -1,0 +1,4 @@
+[27-Oct-2020 02:00:00 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/Session/Session.php on line 30
+[27-Oct-2020 02:00:01 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 19
+[27-Oct-2020 02:00:01 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/Session/Session.php on line 30
+[27-Oct-2020 02:00:03 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 19

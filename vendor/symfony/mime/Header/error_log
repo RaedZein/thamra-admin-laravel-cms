@@ -1,0 +1,16 @@
+[27-Oct-2020 02:02:39 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Mime\Header\HeaderInterface' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[27-Oct-2020 02:02:39 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Mime\Header\HeaderInterface' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[27-Oct-2020 02:02:39 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[27-Oct-2020 02:02:40 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/DateHeader.php on line 19
+[27-Oct-2020 02:02:40 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[27-Oct-2020 02:02:40 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[27-Oct-2020 02:02:41 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/MailboxHeader.php on line 22
+[27-Oct-2020 02:02:41 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/MailboxHeader.php on line 22
+[27-Oct-2020 02:02:42 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[27-Oct-2020 02:02:42 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[27-Oct-2020 02:02:42 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\UnstructuredHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[27-Oct-2020 02:02:43 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\UnstructuredHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[27-Oct-2020 02:02:43 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[27-Oct-2020 02:02:43 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/PathHeader.php on line 22
+[27-Oct-2020 02:02:44 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[27-Oct-2020 02:02:44 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Header\AbstractHeader' not found in /home4/thamrato/public_html/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19

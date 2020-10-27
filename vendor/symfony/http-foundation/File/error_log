@@ -1,0 +1,4 @@
+[27-Oct-2020 01:59:58 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/File/Stream.php on line 19
+[27-Oct-2020 01:59:59 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32
+[27-Oct-2020 02:00:00 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/File/Stream.php on line 19
+[27-Oct-2020 02:00:00 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home4/thamrato/public_html/vendor/symfony/http-foundation/File/UploadedFile.php on line 32

@@ -1,0 +1,10 @@
+[27-Oct-2020 02:02:45 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/AbstractMultipartPart.php on line 19
+[27-Oct-2020 02:02:45 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/AbstractMultipartPart.php on line 19
+[27-Oct-2020 02:02:46 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\TextPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/DataPart.php on line 21
+[27-Oct-2020 02:02:46 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\TextPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/DataPart.php on line 21
+[27-Oct-2020 02:02:46 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\DataPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/MessagePart.php on line 22
+[27-Oct-2020 02:02:47 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\DataPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/MessagePart.php on line 22
+[27-Oct-2020 02:02:47 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/SMimePart.php on line 19
+[27-Oct-2020 02:02:48 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/SMimePart.php on line 19
+[27-Oct-2020 02:02:48 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/TextPart.php on line 24
+[27-Oct-2020 02:02:48 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home4/thamrato/public_html/vendor/symfony/mime/Part/TextPart.php on line 24

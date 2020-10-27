@@ -1,0 +1,2 @@
+[27-Oct-2020 02:04:59 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-buttons/src/ButtonsServiceProvider.php on line 11
+[27-Oct-2020 02:05:00 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-buttons/src/ButtonsServiceProvider.php on line 11

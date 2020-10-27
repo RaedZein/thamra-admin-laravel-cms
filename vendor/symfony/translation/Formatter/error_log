@@ -1,0 +1,4 @@
+[27-Oct-2020 02:03:43 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Formatter\IntlFormatterInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[27-Oct-2020 02:03:43 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Formatter\IntlFormatterInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[27-Oct-2020 02:03:44 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Formatter\MessageFormatterInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 25
+[27-Oct-2020 02:03:44 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Formatter\MessageFormatterInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Formatter/MessageFormatter.php on line 25

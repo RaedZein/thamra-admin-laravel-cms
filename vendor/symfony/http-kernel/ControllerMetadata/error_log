@@ -1,0 +1,2 @@
+[27-Oct-2020 02:00:21 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\ControllerMetadata\ArgumentMetadataFactoryInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php on line 19
+[27-Oct-2020 02:00:21 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\ControllerMetadata\ArgumentMetadataFactoryInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php on line 19

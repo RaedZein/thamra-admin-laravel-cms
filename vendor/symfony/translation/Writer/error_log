@@ -1,0 +1,2 @@
+[27-Oct-2020 02:03:58 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Writer\TranslationWriterInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24
+[27-Oct-2020 02:03:58 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Writer\TranslationWriterInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Writer/TranslationWriter.php on line 24

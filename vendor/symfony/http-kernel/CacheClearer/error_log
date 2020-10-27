@@ -1,0 +1,4 @@
+[27-Oct-2020 02:00:04 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[27-Oct-2020 02:00:05 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 17
+[27-Oct-2020 02:00:05 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[27-Oct-2020 02:00:06 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 17

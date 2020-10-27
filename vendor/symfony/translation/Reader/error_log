@@ -1,0 +1,2 @@
+[27-Oct-2020 02:03:55 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Reader\TranslationReaderInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Reader/TranslationReader.php on line 23
+[27-Oct-2020 02:03:55 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Reader\TranslationReaderInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Reader/TranslationReader.php on line 23

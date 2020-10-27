@@ -1,0 +1,4 @@
+[27-Oct-2020 02:03:39 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Extractor\ExtractorInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[27-Oct-2020 02:03:39 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\Extractor\ExtractorInterface' not found in /home4/thamrato/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[27-Oct-2020 02:03:41 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Translation\Extractor\AbstractFileExtractor' not found in /home4/thamrato/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 22
+[27-Oct-2020 02:03:41 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Translation\Extractor\AbstractFileExtractor' not found in /home4/thamrato/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 22

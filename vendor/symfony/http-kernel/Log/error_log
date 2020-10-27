@@ -1,0 +1,2 @@
+[27-Oct-2020 02:02:22 America/Boise] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Log/Logger.php on line 23
+[27-Oct-2020 02:02:23 America/Boise] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Log/Logger.php on line 23

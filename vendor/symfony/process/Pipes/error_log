@@ -1,0 +1,6 @@
+[27-Oct-2020 02:02:54 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home4/thamrato/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[27-Oct-2020 02:02:54 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home4/thamrato/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[27-Oct-2020 02:02:55 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home4/thamrato/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[27-Oct-2020 02:02:55 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home4/thamrato/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[27-Oct-2020 02:02:56 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home4/thamrato/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[27-Oct-2020 02:02:56 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home4/thamrato/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27

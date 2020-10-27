@@ -1,0 +1,6 @@
+[27-Oct-2020 02:03:02 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Routing\Generator\UrlGenerator' not found in /home4/thamrato/public_html/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[27-Oct-2020 02:03:02 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Routing\Generator\UrlGenerator' not found in /home4/thamrato/public_html/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[27-Oct-2020 02:03:03 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\Generator\UrlGeneratorInterface' not found in /home4/thamrato/public_html/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[27-Oct-2020 02:03:03 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\Generator\UrlGeneratorInterface' not found in /home4/thamrato/public_html/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[27-Oct-2020 02:03:04 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\RequestContextAwareInterface' not found in /home4/thamrato/public_html/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[27-Oct-2020 02:03:04 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\RequestContextAwareInterface' not found in /home4/thamrato/public_html/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32

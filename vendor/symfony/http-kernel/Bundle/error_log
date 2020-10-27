@@ -1,0 +1,4 @@
+[27-Oct-2020 02:00:03 America/Boise] PHP Fatal error:  Trait 'Symfony\Component\DependencyInjection\ContainerAwareTrait' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 27
+[27-Oct-2020 02:00:03 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\ContainerAwareInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Bundle/BundleInterface.php on line 23
+[27-Oct-2020 02:00:04 America/Boise] PHP Fatal error:  Trait 'Symfony\Component\DependencyInjection\ContainerAwareTrait' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Bundle/Bundle.php on line 27
+[27-Oct-2020 02:00:04 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\ContainerAwareInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Bundle/BundleInterface.php on line 23

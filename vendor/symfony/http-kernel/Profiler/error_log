@@ -1,0 +1,4 @@
+[27-Oct-2020 02:02:23 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[27-Oct-2020 02:02:23 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[27-Oct-2020 02:02:24 America/Boise] PHP Fatal error:  Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 28
+[27-Oct-2020 02:02:24 America/Boise] PHP Fatal error:  Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Profiler/Profiler.php on line 28

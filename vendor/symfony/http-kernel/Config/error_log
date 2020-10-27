@@ -1,0 +1,2 @@
+[27-Oct-2020 02:00:15 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Config\FileLocator' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[27-Oct-2020 02:00:16 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Config\FileLocator' not found in /home4/thamrato/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22

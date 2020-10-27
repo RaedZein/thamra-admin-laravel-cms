@@ -1,0 +1,2 @@
+[27-Oct-2020 02:02:56 America/Boise] PHP Fatal error:  Trait 'Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait' not found in /home4/thamrato/public_html/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 26
+[27-Oct-2020 02:02:57 America/Boise] PHP Fatal error:  Trait 'Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait' not found in /home4/thamrato/public_html/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 26

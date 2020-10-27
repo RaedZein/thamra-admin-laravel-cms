@@ -1,0 +1,2 @@
+[27-Oct-2020 02:05:03 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-fractal/src/FractalServiceProvider.php on line 11
+[27-Oct-2020 02:05:04 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home4/thamrato/public_html/vendor/yajra/laravel-datatables-fractal/src/FractalServiceProvider.php on line 11

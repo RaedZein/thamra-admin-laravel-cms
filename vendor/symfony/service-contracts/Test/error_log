@@ -1,0 +1,2 @@
+[27-Oct-2020 02:03:17 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home4/thamrato/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 18
+[27-Oct-2020 02:03:18 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home4/thamrato/public_html/vendor/symfony/service-contracts/Test/ServiceLocatorTest.php on line 18
