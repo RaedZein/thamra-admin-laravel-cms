@@ -95,7 +95,7 @@ class RazorPayController extends ParentOrderController
      * @param Request $request
      * @return \Illuminate\Http\JsonResponse|\Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
      */
-    public function paySuccess(int $userId, int $deliveryAddressId,string $couponCode, Request $request)
+    public function paySuccess(Request $request, int $userId, int $deliveryAddressId,string $couponCode = null)
     {
         $data = $request->all();
 

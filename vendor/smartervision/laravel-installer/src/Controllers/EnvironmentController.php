@@ -181,7 +181,6 @@ class EnvironmentController extends Controller
                 }
             }
         }
-        dd($errors);
 
         if (isset($errors) || !$code){
             return view('vendor.installer.environment-wizard', compact('errors'));

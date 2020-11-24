@@ -152,6 +152,6 @@ return [
     */
     'updaterEnabled' => 'true',
 
-    'currentVersion' => 'v241',
+    'currentVersion' => 'v250',
 
 ];
